@@ -8,3 +8,7 @@ De body is alle zichtbare dingen die je op de website gaat zien, bijvoorbeeld te
 6. <a>
 7. Een externe link is een link die verwijst naar een andere website en een interne link verwijst naar een andere deel van jouw eigen website.
 ----------------------
+SECTIE 3
+1. Cascading Style Sheet
+2. Je kan websites die in HTML gemaakt zijn stijl geven.
+3. HTML is al het content dat de website bevat en CSS maakt de website mooier.
