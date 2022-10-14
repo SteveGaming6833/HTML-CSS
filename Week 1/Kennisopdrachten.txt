@@ -12,3 +12,26 @@ SECTIE 3
 1. Cascading Style Sheet
 2. Je kan websites die in HTML gemaakt zijn stijl geven.
 3. HTML is al het content dat de website bevat en CSS maakt de website mooier.
+4. CSS code in een HTML tag toevoegen, CSS code in een HTML document toevoegen of CSS code in een andere bestand toevoegen.
+5.
+<p style="font size: 120%")
+
+<style>
+    p {
+        font-size: 120%
+    }
+</style>
+
+p {
+    font-size: 120%
+}
+
+
+6. In een andere file zetten, want het is makkelijker en overzichtelijker.
+7. Een selector is het eerste stukje van een CSS regel.
+Het vertelt welke html elementen de CSS properties krijgen die in de declaratieblok worden gezet.
+8. Het declaratieblok is het code die in de accolades staat.
+Het wordt gebruikt om daarmee alle html elementen in de selector de stijl te geven.
+9. h5 en h6 in dezelfde selector zetten en in de declaratieblok daarvan moet het kleur worden gezet.
+10. Het zorgt ervoor dat in een tekst alle zinnen in horizontale visie even lang zijn.
+11.
