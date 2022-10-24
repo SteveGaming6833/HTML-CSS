@@ -1,0 +1,9 @@
+SECTOR 2
+1. <!DOCTYPE html>
+2. De head is hoe de website opgebouwd gaat worden, bijvoorbeeld CSS-stijlen etc.
+De body is alle zichtbare dingen die je op de website gaat zien, bijvoorbeeld text, links etc.
+3. Het is het begin- en eindtag van een HTML document.
+4. Een attribuut is extra informatie voor een element.
+5. Het href attribuut.
+6. <a>
+7. Een externe link is een link die verwijst naar een andere website en een interne link verwijst naar een andere deel van jouw eigen website.
