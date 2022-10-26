@@ -1,0 +1,29 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  text-align: justify;
+}
+
+h1 {
+  color: green;
+}
+
+h2 {
+  color: red;
+}
+
+h3,
+.wah {
+  color: blue;
+}
+
+.wah {
+  font-size: 24px;
+}
+
+.JKL {
+  color: rgb(0, 180, 0);
+}
+
+.very {
+  font-size: 90px;
+}

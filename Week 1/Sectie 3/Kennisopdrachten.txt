@@ -29,4 +29,4 @@ Het wordt gebruikt om daarmee alle html elementen in de selector de stijl te gev
 13. Een id is hetzelfde als een class, maar alleen één HTML element kan geselecteerd worden.
 14. Margin is de ruimte tussen ruimtes. Padding is de transparante ruimte om de content heen in een box.
 16. Block elements gebruiken de volle wijdte van de webpagina en inline elements doen dat niet.
-17.
+17. ?? wat wordt hiermee bedoeld?
