@@ -1,0 +1,17 @@
+.content {
+  background-color: rgb(190, 225, 255);
+  box-sizing: content-box;
+  height: 300px;
+  width: 300px;
+  padding: 125px;
+  border: 10px;
+}
+
+.border {
+  background-color: rgb(180, 255, 187);
+  box-sizing: border-box;
+  height: 300px;
+  width: 300px;
+  padding: 125px;
+  border: 10px;
+}
