@@ -12,7 +12,6 @@ body {
   padding-right: 30px;
   border: 1px solid rgb(138, 138, 138);
   padding: 5px;
-  float: left;
 }
 
 h1 {
@@ -23,4 +22,14 @@ h1 {
   box-sizing: content-box;
   width: 200px;
   height: 200px;
+}
+
+.sideleft {
+  width: 75%;
+  float: left;
+}
+
+.sideright {
+  width: 25%;
+  float: left;
 }
