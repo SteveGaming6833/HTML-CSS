@@ -1,0 +1,26 @@
+body {
+  color: green;
+  text-align: justify;
+}
+
+.container {
+  width: 1200px;
+  margin: 15px auto 0 auto;
+  background-color: rgb(243, 255, 254);
+  width: 75%;
+  float: left;
+  padding-right: 30px;
+  border: 1px solid rgb(138, 138, 138);
+  padding: 5px;
+  float: left;
+}
+
+h1 {
+  font-family: "Courier New", Courier, monospace;
+}
+
+.foto1 img {
+  box-sizing: content-box;
+  width: 200px;
+  height: 200px;
+}
