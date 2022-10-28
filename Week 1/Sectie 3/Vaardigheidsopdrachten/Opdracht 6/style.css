@@ -1,34 +1,94 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.absolute {
+  color: rgba(0, 173, 23, 0.966);
+  position: absolute;
+  font-size: 18px;
+  top: 10px;
+  right: 10px;
+}
+
 body {
-  color: green;
   text-align: justify;
+  background-color: rgb(222, 255, 251);
 }
 
 .container {
   width: 1200px;
   margin: 15px auto 0 auto;
+}
+
+.funnies-box {
   background-color: rgb(243, 255, 254);
   width: 75%;
   float: left;
   padding-right: 30px;
   border: 1px solid rgb(138, 138, 138);
   padding: 5px;
+  position: relative;
+}
+
+.why-box {
+  background-color: rgb(154, 236, 161);
+  width: 25%;
+  float: left;
+  padding: 5px;
+  margin-bottom: 5px;
+}
+
+.why-box img {
+  width: 120px;
+  height: auto;
+}
+
+.links-box {
+  font-family: Helvetica Neue, Arial;
+  font-size: 14px;
+}
+
+h1,
+h2 {
+  font-family: Helvetica Neue, Arial;
 }
 
 h1 {
-  font-family: "Courier New", Courier, monospace;
+  font-size: 45px;
+  color: rgba(19, 93, 167, 0.8);
+  margin-bottom: 28px;
 }
 
-.foto1 img {
-  box-sizing: content-box;
-  border: 10px solid rgb(0, 0, 0);
+h2 {
+  font-size: 25px;
+  color: rgb(19, 151, 19, 0.9);
+  margin-bottom: 14px;
 }
 
-.sideleft {
-  width: 75%;
-  float: left;
+p {
+  font-size: 16px;
+  font-family: Helvetica Neue, Arial;
 }
 
-.sideright {
-  width: 25%;
-  float: left;
+#baller {
+  color: rgb(192, 0, 29);
+  font-size: 18px;
+}
+
+.harold {
+  color: rgb(150, 159, 12);
+  font-size: 18px;
+}
+
+.mario {
+  color: rgb(187, 51, 169);
+  font-size: 24px;
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
 }
